@@ -287,15 +287,9 @@ ol {
   
 }
 
-.content__video-card-description-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  gap: 5px;
-}
-
 .content__video-card-title {
   width: 196px;
+  padding-bottom: 5px;
   overflow: hidden;
   font-weight: 700;
   font-size: 30px;
